@@ -1,6 +1,6 @@
-# Quanfluence QUBO Workflow Example
+# Quanfluence QUBO Example
 
-This guide explains how to create, upload, and execute QUBO using the Quanfluence platform.
+This guide explains how to create, upload, and execute QUBO using the Quanfluence.
 
 ## Workflow Overview
 
