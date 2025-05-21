@@ -29,7 +29,7 @@ This script creates a simple Max-Cut problem on a triangle graph and saves it as
 
 ## Step 2: Upload and Execute the QUBO File
 
-Use `upload_example.py` to upload your QUBO file to the Quanfluence platform and execute it:
+Use `upload_example.py` to upload your QUBO file (like the 'max_cut_triangle.qubo' I generated above) to the Quanfluence platform and execute it:
 
 ```bash
 python upload_example.py
