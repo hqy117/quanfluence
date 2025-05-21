@@ -19,7 +19,7 @@ pip install quanfluence-sdk requests
 
 ## Example Files
 
-- `create_qubo.py`: Creates a QUBO file for a Max-Cut problem
+- `create_qubo.py`: Creates a QUBO file for a Max-Cut problem (A simple example that I used for test)
 - `upload_example.py`: Uploads and executes a QUBO file
 - `run_example.py`: Executes a previously uploaded QUBO file
 - `max_cut_triangle.qubo`: Example QUBO file (created by `create_qubo.py`)
