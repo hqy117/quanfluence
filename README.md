@@ -2,6 +2,14 @@
 
 This guide explains how to create, upload, and execute QUBO using the Quanfluence.
 
+## Prerequisites
+
+Install the quanfluence-sdk and requests packages:
+
+```bash
+pip install quanfluence-sdk requests
+```
+
 ## Workflow Overview
 
 1. Create a QUBO problem file
