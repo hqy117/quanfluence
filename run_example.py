@@ -36,5 +36,5 @@ device_id = 16                              # Preconfigured - DO NOT CHANGE
 device = client.get_device(device_id)
 print(device)
 
-result = client.execute_device_qubo_file(device_id, 'max_cut_triangle_21564ef7-b83b-4576-8722-469a7b78ef4c.qubo')     # ENTER THE FILENAME OBTAINED AFTER UPLOADING THE QUBO
+result = client.execute_device_qubo_file(device_id, 'max_cut_triangle_787419d6-b409-4960-9989-85227c271292.qubo')     # ENTER THE FILENAME OBTAINED AFTER UPLOADING THE QUBO
 print(result)
